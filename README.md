@@ -1,6 +1,6 @@
 # Mandelbrot-set-openmpi
 
-Block scheduling variant
-Block scheduling
-Loop splitting variant
-loop splitting
+1.Block scheduling variant
+2.Block scheduling
+3.Loop splitting variant
+4.loop splitting
